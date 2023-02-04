@@ -1,0 +1,19 @@
+{
+  "name": "@hansenwu/janus-gateway-ts",
+  "version": "1.0.4",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansenwuwu/janus-gateway-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hansenwuwu/janus-gateway-ts/issues"
+  },
+  "homepage": "https://github.com/hansenwuwu/janus-gateway-ts#readme"
+}
