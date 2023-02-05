@@ -1,8 +1,5 @@
 # Janus npm package setup
 
-## How to upload to npm
-https://www.makeuseof.com/npm-publish-package-how/
-
 ## Compile janus.js
 
 1. compile janus.js from git repo. Use below commands. (https://janus.conf.meetecho.com/docs/js-modules.html)
