@@ -1,4 +1,4 @@
-# Janus npm package setup
+# Janus Gateway Ts
 
 ## Compile janus.js
 
